@@ -1,4 +1,4 @@
-# TOp500
+# TOP500 Data Analysis
 
 O TOP500 (dês de 1993) é um projeto de pesquisa que ranqueia os 500 supercomputadores com maior capacidade de processamento do mundo todo. Ele acontece todos os semestres do ano e reúne uma grande quantidade de informação a respeito dessas máquinas, além da velocidade de processamento de números decimais (flops/s) é coletado também dados sobre: hardware localidade, finalidade, desenvolvedora, sistema operacional e muito mais. 
 
